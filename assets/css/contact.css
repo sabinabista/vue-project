@@ -1,0 +1,38 @@
+
+
+.all{
+    position: relative;
+    background: url(../images/bed1.jpg);
+    background-position: top center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.contact{
+    padding:50px;
+    background: rgb(161, 153, 153);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width:fit-content;
+    height: 80%;
+    
+}
+.register{
+    border: 3px solid whitesmoke;
+    background: rgb(170, 167, 167);
+    padding: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto ;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
